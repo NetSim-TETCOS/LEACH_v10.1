@@ -1,0 +1,18 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  SourceRoute.c
+c:\users\upal\desktop\projects_v10.1.14\done\leach\64bit\code\dsr\sourceroute.c(17): fatal error C1083: Cannot open include file: '802_15_4.h': No such file or directory
+  SendBuffer.c
+  RouteRequest.c
+  RouteReply.c
+  RouteError.c
+  RouteCache.c
+  PacketProcessing.c
+c:\users\upal\desktop\projects_v10.1.14\done\leach\64bit\code\dsr\packetprocessing.c(17): fatal error C1083: Cannot open include file: '802_15_4.h': No such file or directory
+  Network_Layer_Ack.c
+  MaintBuffer.c
+  LEACH.c
+c:\users\upal\desktop\projects_v10.1.14\done\leach\64bit\code\dsr\leach.c(32): fatal error C1083: Cannot open include file: '802_15_4.h': No such file or directory
+  DSR.c
+c:\users\upal\desktop\projects_v10.1.14\done\leach\64bit\code\dsr\dsr.c(17): fatal error C1083: Cannot open include file: '802_15_4.h': No such file or directory
+  CheckRouteFound.c
+  Generating Code...
